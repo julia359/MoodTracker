@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MoodTracker</string>
+    <string name="mood_title">How are you feeling today?</string>
+    <string name="mood_hint">e.g. Happy, Tired, Excited</string>
+    <string name="update_mood">Update Mood</string>
+    <string name="empty_mood_error">Please enter a mood!</string>
+    <string name="mood_result_format">Today is a %1$s day!</string>
+</resources>
